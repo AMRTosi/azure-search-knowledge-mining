@@ -23,7 +23,7 @@ namespace CognitiveSearch.UI
             //"people", 
             //"locations",
             //"organizations",
-            //"keyphrases"
+            //"keyPhrases"
         };
 
         private string[] resultFields = new string[]
